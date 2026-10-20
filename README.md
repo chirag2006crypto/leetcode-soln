@@ -37,4 +37,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
