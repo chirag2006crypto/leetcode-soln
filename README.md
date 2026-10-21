@@ -53,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0509-fibonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/chirag2006crypto/leetcode-soln/tree/master/1832-check-if-the-sentence-is-pangram) |
+## String
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/chirag2006crypto/leetcode-soln/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
