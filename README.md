@@ -58,12 +58,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0500-keyboard-row) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chirag2006crypto/leetcode-soln/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0500-keyboard-row) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chirag2006crypto/leetcode-soln/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
