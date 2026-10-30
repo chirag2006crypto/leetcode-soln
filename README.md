@@ -45,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0383-ransom-note) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
