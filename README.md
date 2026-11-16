@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0069-sqrtx) |
 | [0875-koko-eating-bananas](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0062-unique-paths) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
