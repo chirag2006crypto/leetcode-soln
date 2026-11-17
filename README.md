@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0125-valid-palindrome) |
+| [0541-reverse-string-ii](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0647-palindromic-substrings) |
 ## Sorting
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0500-keyboard-row) |
+| [0541-reverse-string-ii](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/chirag2006crypto/leetcode-soln/tree/master/0647-palindromic-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chirag2006crypto/leetcode-soln/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Counting
